@@ -1,0 +1,431 @@
+
+
+
+<body class="  pace-done">
+    <!-- [ Preloader ] Start -->
+    <div class="page-loader">
+        <div class="bg-primary"></div>
+    </div>
+    <!-- [ Preloader ] End -->
+
+    <!-- [ Layout wrapper ] Start -->
+    <div class="layout-wrapper layout-2">
+        <div class="layout-inner">
+            <!-- [ Layout sidenav ] Start -->
+            <div id="layout-sidenav" class="layout-sidenav sidenav sidenav-vertical bg-dark">
+                <!-- Brand demo (see assets2/css/demo/demo.css) -->
+             <app-accsidebar></app-accsidebar>
+            </div>
+            <!-- [ Layout sidenav ] End -->
+            <!-- [ Layout container ] Start -->
+            <div class="layout-container">
+                <!-- [ Layout navbar ( Header ) ] Start -->
+                <nav class="layout-navbar navbar navbar-expand-lg align-items-lg-center bg-white container-p-x" id="layout-navbar">
+
+                    <!-- Brand demo (see assets2/css/demo/demo.css) -->
+                    <a href="index.html" class="navbar-brand app-brand demo d-lg-none py-0 mr-4">
+                        <span class="app-brand-logo demo">
+                            <img src="assets2/img/logo-dark.png" alt="Brand Logo" class="img-fluid">
+                        </span>
+                        <span class="app-brand-text demo font-weight-normal ml-2">Bhumlu</span>
+                    </a>
+
+                    <!-- Sidenav toggle (see assets2/css/demo/demo.css) -->
+                    <div class="layout-sidenav-toggle navbar-nav d-lg-none align-items-lg-center mr-auto">
+                        <a class="nav-item nav-link px-0 mr-lg-4" href="javascript:">
+                            <i class="ion ion-md-menu text-large align-middle"></i>
+                        </a>
+                    </div>
+
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#layout-navbar-collapse">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+
+                    <div class="navbar-collapse collapse" id="layout-navbar-collapse">
+                        <!-- Divider -->
+                        <hr class="d-lg-none w-100 my-2">
+
+                        <div class="navbar-nav align-items-lg-center">
+                            <!-- Search -->
+                            <label class="nav-item navbar-text navbar-search-box p-0 active">
+                                <i class="feather icon-search navbar-icon align-middle"></i>
+                                <span class="navbar-search-input pl-2">
+                                    <input type="text" class="form-control navbar-text mx-2" placeholder="Search...">
+                                </span>
+                            </label>
+                        </div>
+
+                        <div class="navbar-nav align-items-lg-center ml-auto">
+                            <div class="demo-navbar-notifications nav-item dropdown mr-lg-3">
+                                <a class="nav-link dropdown-toggle hide-arrow" href="#" data-toggle="dropdown">
+                                    <i class="feather icon-bell navbar-icon align-middle"></i>
+                                    <span class="badge badge-danger badge-dot indicator"></span>
+                                    <span class="d-lg-none align-middle">&nbsp; Notifications</span>
+                                </a>
+                                <div class="dropdown-menu dropdown-menu-right">
+                                    <div class="bg-primary text-center text-white font-weight-bold p-3">
+                                        4 New Notifications
+                                    </div>
+                                    <div class="list-group list-group-flush">
+                                        <a href="javascript:" class="list-group-item list-group-item-action media d-flex align-items-center">
+                                            <div class="ui-icon ui-icon-sm feather icon-home bg-secondary border-0 text-white"></div>
+                                            <div class="media-body line-height-condenced ml-3">
+                                                <div class="text-dark">Login from 192.168.1.1</div>
+                                                <div class="text-light small mt-1">
+                                                    Aliquam ex eros, imperdiet vulputate hendrerit et.
+                                                </div>
+                                                <div class="text-light small mt-1">12h ago</div>
+                                            </div>
+                                        </a>
+
+                                        <a href="javascript:" class="list-group-item list-group-item-action media d-flex align-items-center">
+                                            <div class="ui-icon ui-icon-sm feather icon-user-plus bg-info border-0 text-white"></div>
+                                            <div class="media-body line-height-condenced ml-3">
+                                                <div class="text-dark">You have
+                                                    <strong>4</strong> new followers</div>
+                                                <div class="text-light small mt-1">
+                                                    Phasellus nunc nisl, posuere cursus pretium nec, dictum vehicula tellus.
+                                                </div>
+                                            </div>
+                                        </a>
+
+                                        <a href="javascript:" class="list-group-item list-group-item-action media d-flex align-items-center">
+                                            <div class="ui-icon ui-icon-sm feather icon-power bg-danger border-0 text-white"></div>
+                                            <div class="media-body line-height-condenced ml-3">
+                                                <div class="text-dark">Server restarted</div>
+                                                <div class="text-light small mt-1">
+                                                    19h ago
+                                                </div>
+                                            </div>
+                                        </a>
+
+                                        <a href="javascript:" class="list-group-item list-group-item-action media d-flex align-items-center">
+                                            <div class="ui-icon ui-icon-sm feather icon-alert-triangle bg-warning border-0 text-dark"></div>
+                                            <div class="media-body line-height-condenced ml-3">
+                                                <div class="text-dark">99% server load</div>
+                                                <div class="text-light small mt-1">
+                                                    Etiam nec fringilla magna. Donec mi metus.
+                                                </div>
+                                                <div class="text-light small mt-1">
+                                                    20h ago
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <a href="javascript:" class="d-block text-center text-light small p-2 my-1">Show all notifications</a>
+                                </div>
+                            </div>
+
+                            <div class="demo-navbar-messages nav-item dropdown mr-lg-3">
+                                <a class="nav-link dropdown-toggle hide-arrow" href="#" data-toggle="dropdown">
+                                    <i class="feather icon-mail navbar-icon align-middle"></i>
+                                    <span class="badge badge-success badge-dot indicator"></span>
+                                    <span class="d-lg-none align-middle">&nbsp; Messages</span>
+                                </a>
+                                <div class="dropdown-menu dropdown-menu-right">
+                                    <div class="bg-primary text-center text-white font-weight-bold p-3">
+                                        4 New Messages
+                                    </div>
+                                    <div class="list-group list-group-flush">
+                                        <a href="javascript:" class="list-group-item list-group-item-action media d-flex align-items-center">
+                                            <img src="assets2/img/avatars/6-small.png" class="d-block ui-w-40 rounded-circle" alt="">
+                                            <div class="media-body ml-3">
+                                                <div class="text-dark line-height-condenced">Lorem ipsum dolor consectetuer elit.</div>
+                                                <div class="text-light small mt-1">
+                                                    Josephin Doe &nbsp;·&nbsp; 58m ago
+                                                </div>
+                                            </div>
+                                        </a>
+
+                                        <a href="javascript:" class="list-group-item list-group-item-action media d-flex align-items-center">
+                                            <img src="assets2/img/avatars/4-small.png" class="d-block ui-w-40 rounded-circle" alt="">
+                                            <div class="media-body ml-3">
+                                                <div class="text-dark line-height-condenced">Lorem ipsum dolor sit amet, consectetuer.</div>
+                                                <div class="text-light small mt-1">
+                                                    Lary Doe &nbsp;·&nbsp; 1h ago
+                                                </div>
+                                            </div>
+                                        </a>
+
+                                        <a href="javascript:" class="list-group-item list-group-item-action media d-flex align-items-center">
+                                            <img src="assets2/img/avatars/5-small.png" class="d-block ui-w-40 rounded-circle" alt="">
+                                            <div class="media-body ml-3">
+                                                <div class="text-dark line-height-condenced">Lorem ipsum dolor sit amet elit.</div>
+                                                <div class="text-light small mt-1">
+                                                    Alice &nbsp;·&nbsp; 2h ago
+                                                </div>
+                                            </div>
+                                        </a>
+
+                                        <a href="javascript:" class="list-group-item list-group-item-action media d-flex align-items-center">
+                                            <img src="assets2/img/avatars/11-small.png" class="d-block ui-w-40 rounded-circle" alt="">
+                                            <div class="media-body ml-3">
+                                                <div class="text-dark line-height-condenced">Lorem ipsum dolor sit amet consectetuer amet elit dolor sit.</div>
+                                                <div class="text-light small mt-1">
+                                                    Suzen &nbsp;·&nbsp; 5h ago
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </div>
+
+                                    <a href="javascript:" class="d-block text-center text-light small p-2 my-1">Show all messages</a>
+                                </div>
+                            </div>
+
+                            <!-- Divider -->
+                            <div class="nav-item d-none d-lg-block text-big font-weight-light line-height-1 opacity-25 mr-3 ml-1">|</div>
+                            <div class="demo-navbar-user nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">
+                                    <span class="d-inline-flex flex-lg-row-reverse align-items-center align-middle">
+                                        <img src="assets2/img/avatars/1.png" alt="" class="d-block ui-w-30 rounded-circle">
+                                        <span class="px-1 mr-lg-2 ml-2 ml-lg-0">Hello Accountant</span>
+                                    </span>
+                                </a>
+                                <div class="dropdown-menu dropdown-menu-right">
+                                    <a href="javascript:" class="dropdown-item">
+                                        <i class="feather icon-user text-muted"></i> &nbsp; My profile</a>
+                                    <a href="javascript:" class="dropdown-item">
+                                        <i class="feather icon-mail text-muted"></i> &nbsp; Messages</a>
+                                    <a href="javascript:" class="dropdown-item">
+                                        <i class="feather icon-settings text-muted"></i> &nbsp; Account settings</a>
+                                    <div class="dropdown-divider"></div>
+                                    <a href="javascript:" class="dropdown-item">
+                                        <i class="feather icon-power text-danger"></i> &nbsp; Log Out</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </nav>
+                <!-- [ Layout navbar ( Header ) ] End -->
+
+                <!-- [ Layout content ] Start -->
+                <div class="layout-content">
+
+                    <!-- [ content ] Start -->
+                    <div class="container-fluid flex-grow-1 container-p-y">
+                        <h4 class="font-weight-bold py-3 mb-0">Dashboard</h4>
+                        <div class="text-muted small mt-0 mb-4 d-block breadcrumb">
+                            <ol class="breadcrumb">
+                                <li class="breadcrumb-item"><a ><i class="feather icon-home"></i></a></li>
+                                <li class="breadcrumb-item"><a >Home</a></li>
+                               
+                            </ol>
+                        </div>
+                        <div class="row">
+                            <!-- 1st row Start -->
+                            <div class="col-lg-7">
+                                <div class="card mb-4">
+                                    <div class="card-header with-elements">
+                                        <h6 class="card-header-title mb-0">Statistics</h6>
+                                        <div class="card-header-elements ml-auto">
+                                            <label class="text m-0">
+                                                <span class="text-light text-tiny font-weight-semibold align-middle">SHOW STATS</span>
+                                                <span class="switcher switcher-sm d-inline-block align-middle mr-0 ml-2"><input type="checkbox" class="switcher-input" checked=""><span class="switcher-indicator"><span class="switcher-yes"></span><span class="switcher-no"></span></span></span>
+                                            </label>
+                                        </div>
+                                    </div>
+                                    <div class="card-body">
+                                        <div id="statistics-chart-1" style="height: 270px; position: relative;"><div dir="ltr" class="resize-sensor" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div class="resize-sensor-expand" style="pointer-events: none; position: absolute; left: 0px; top: 0px; right: 0; bottom: 0; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div style="position: absolute; left: 0px; top: 0px; transition: all 0s ease 0s; width: 629px; height: 280px;"></div></div><div class="resize-sensor-shrink" style="pointer-events: none; position: absolute; left: 0px; top: 0px; right: 0; bottom: 0; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div style="position: absolute; left: 0; top: 0; transition: 0s; width: 200%; height: 200%"></div></div></div><div style="width: 100%; height: 100%; position: relative; top: -0.3125px;"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="group" style="width: 100%; height: 100%; overflow: visible;"><desc>JavaScript chart by amCharts</desc><defs><clipPath id="id-27"><rect width="619" height="270"></rect></clipPath><linearGradient id="gradient-id-50" x1="1%" x2="99%" y1="59%" y2="41%"><stop stop-color="#474758" offset="0"></stop><stop stop-color="#474758" stop-opacity="1" offset="0.75"></stop><stop stop-color="#3cabff" stop-opacity="1" offset="0.755"></stop></linearGradient><filter id="filter-id-56" width="200%" height="200%" x="-50%" y="-50%"></filter><filter id="filter-id-75" width="200%" height="200%" x="-50%" y="-50%"></filter><clipPath id="id-110"><path d="M0,0 L544,0 L544,201.98 L0,201.98 L0,0"></path></clipPath><clipPath id="id-127"><path d="M0,0 L544,0 L544,201.98 L0,201.98 L0,0"></path></clipPath><clipPath id="id-326"><rect width="544" height="201.98"></rect></clipPath><filter id="filter-id-29" width="200%" height="200%" x="-50%" y="-50%"><feGaussianBlur result="blurOut" in="SourceGraphic" stdDeviation="1.5"></feGaussianBlur><feOffset result="offsetBlur" dx="1" dy="1"></feOffset><feFlood flood-color="#000000" flood-opacity="0.5"></feFlood><feComposite in2="offsetBlur" operator="in"></feComposite><feMerge><feMergeNode></feMergeNode><feMergeNode in="SourceGraphic"></feMergeNode></feMerge></filter><filter id="filter-id-47" width="120%" height="120%" x="-10%" y="-10%"><feColorMatrix type="saturate" values="0"></feColorMatrix></filter><filter id="filter-id-112" width="200%" height="200%" x="-50%" y="-50%"><feGaussianBlur result="blurOut" in="SourceGraphic" stdDeviation="1.5"></feGaussianBlur><feOffset result="offsetBlur" dx="1" dy="1"></feOffset><feFlood flood-color="#000000" flood-opacity="0.5"></feFlood><feComposite in2="offsetBlur" operator="in"></feComposite><feMerge><feMergeNode></feMergeNode><feMergeNode in="SourceGraphic"></feMergeNode></feMerge></filter><filter id="filter-id-129" width="200%" height="200%" x="-50%" y="-50%"><feGaussianBlur result="blurOut" in="SourceGraphic" stdDeviation="1.5"></feGaussianBlur><feOffset result="offsetBlur" dx="1" dy="1"></feOffset><feFlood flood-color="#000000" flood-opacity="0.5"></feFlood><feComposite in2="offsetBlur" operator="in"></feComposite><feMerge><feMergeNode></feMergeNode><feMergeNode in="SourceGraphic"></feMergeNode></feMerge></filter><filter id="filter-id-122" width="200%" height="200%" x="-50%" y="-50%"><feGaussianBlur result="blurOut" in="SourceGraphic" stdDeviation="8"></feGaussianBlur><feOffset result="offsetBlur" dx="1" dy="15"></feOffset><feFlood flood-color="#716aca" flood-opacity="0.5"></feFlood><feComposite in2="offsetBlur" operator="in"></feComposite><feMerge><feMergeNode></feMergeNode><feMergeNode in="SourceGraphic"></feMergeNode></feMerge></filter><filter id="filter-id-128" width="200%" height="200%" x="-50%" y="-50%"><feGaussianBlur result="blurOut" in="SourceGraphic" stdDeviation="8"></feGaussianBlur><feOffset result="offsetBlur" dx="1" dy="15"></feOffset><feFlood flood-color="#716aca" flood-opacity="0.5"></feFlood><feComposite in2="offsetBlur" operator="in"></feComposite><feMerge><feMergeNode></feMergeNode><feMergeNode in="SourceGraphic"></feMergeNode></feMerge></filter></defs><g><g fill="#ffffff" fill-opacity="0"><rect width="619" height="270"></rect></g><g><g role="region" clip-path="url(#id-27)" opacity="1" aria-label="Chart"><g transform="translate(15,15)"><g><g><g><g><g><g><g transform="translate(45,0)" style="touch-action: none; user-select: none; -webkit-user-drag: none;"><g fill="#ffffff" fill-opacity="0"><rect width="544" height="201.98"></rect></g><g><g><g><g fill-opacity="0" stroke-opacity="0" stroke="#000000" stroke-width="1" transform="translate(0,303)" display="none"><path d=" M0,0  L-5,0 " transform="translate(-0.5,-0.5)"></path></g><g stroke="#000000" stroke-opacity="0.15" fill="none" transform="translate(0,303)" display="none"><path d=" M0,0  L544,0 " transform="translate(-0.5,-0.5)"></path></g><g fill="#000000" fill-opacity="0" style="pointer-events: none;" display="none"><path d="M0,201.98 L0,201.98 L544,201.98 L544,201.98 L0,201.98"></path></g><g fill-opacity="0" stroke-opacity="0" stroke="#000000" stroke-width="1" transform="translate(0,252.5)" display="none"><path d=" M0,0  L-5,0 " transform="translate(-0.5,-0.5)"></path></g><g stroke="#000000" stroke-opacity="0.15" fill="none" transform="translate(0,252.5)" display="none"><path d=" M0,0  L544,0 " transform="translate(-0.5,-0.5)"></path></g><g fill="#000000" fill-opacity="0" style="pointer-events: none;"><path d="M0,201.98 L0,201.98 L544,201.98 L544,201.98 L0,201.98"></path></g><g fill-opacity="0" stroke-opacity="0" stroke="#000000" stroke-width="1" transform="translate(0,202)"><path d=" M0,0  L-5,0 " transform="translate(-0.5,-0.5)"></path></g><g stroke="#000000" stroke-opacity="0.15" fill="none" transform="translate(0,202)"><path d=" M0,0  L544,0 " transform="translate(-0.5,-0.5)"></path></g><g fill="#000000" fill-opacity="0" style="pointer-events: none;" display="none"><path d="M0,151.5 L0,201.98 L544,201.98 L544,151.5 L0,151.5"></path></g><g fill-opacity="0" stroke-opacity="0" stroke="#000000" stroke-width="1" transform="translate(0,151.5)"><path d=" M0,0  L-5,0 " transform="translate(-0.5,-0.5)"></path></g><g stroke="#000000" stroke-opacity="0.15" fill="none" transform="translate(0,151.5)"><path d=" M0,0  L544,0 " transform="translate(-0.5,-0.5)"></path></g><g fill="#000000" fill-opacity="0" style="pointer-events: none;"><path d="M0,101 L0,151.5 L544,151.5 L544,101 L0,101"></path></g><g fill-opacity="0" stroke-opacity="0" stroke="#000000" stroke-width="1" transform="translate(0,101)"><path d=" M0,0  L-5,0 " transform="translate(-0.5,-0.5)"></path></g><g stroke="#000000" stroke-opacity="0.15" fill="none" transform="translate(0,101)"><path d=" M0,0  L544,0 " transform="translate(-0.5,-0.5)"></path></g><g fill="#000000" fill-opacity="0" style="pointer-events: none;" display="none"><path d="M0,50.5 L0,101 L544,101 L544,50.5 L0,50.5"></path></g><g fill-opacity="0" stroke-opacity="0" stroke="#000000" stroke-width="1" transform="translate(0,50.5)"><path d=" M0,0  L-5,0 " transform="translate(-0.5,-0.5)"></path></g><g stroke="#000000" stroke-opacity="0.15" fill="none" transform="translate(0,50.5)"><path d=" M0,0  L544,0 " transform="translate(-0.5,-0.5)"></path></g><g fill="#000000" fill-opacity="0" style="pointer-events: none;"><path d="M0,0 L0,50.5 L544,50.5 L544,0 L0,0"></path></g><g fill-opacity="0" stroke-opacity="0" stroke="#000000" stroke-width="1"><path d=" M0,0  L-5,0 " transform="translate(-0.5,-0.5)"></path></g><g stroke="#000000" stroke-opacity="0.15" fill="none"><path d=" M0,0  L544,0 " transform="translate(-0.5,-0.5)"></path></g><g fill="#000000" fill-opacity="0" style="pointer-events: none;" display="none"><path d="M0,0 L0,0 L544,0 L544,0 L0,0"></path></g><g fill-opacity="0" stroke-opacity="0" stroke="#000000" stroke-width="1" transform="translate(0,-50.5)" display="none"><path d=" M0,0  L-5,0 " transform="translate(-0.5,-0.5)"></path></g><g stroke="#000000" stroke-opacity="0.15" fill="none" transform="translate(0,-50.5)" display="none"><path d=" M0,0  L544,0 " transform="translate(-0.5,-0.5)"></path></g><g fill="#000000" fill-opacity="0" style="pointer-events: none;"><path d="M0,0 L0,0 L544,0 L544,0 L0,0"></path></g></g></g><g><g><g fill-opacity="0" stroke-opacity="0" stroke="#000000" stroke-width="1" transform="translate(38.85791999999999,201.98)"><path d=" M0,0  L0,5 " transform="translate(-0.5,-0.5)"></path></g><g stroke="#000000" stroke-opacity="0" fill="none" transform="translate(38.85791999999999,0)"><path d=" M0,0  L0,201.98 " transform="translate(-0.5,-0.5)"></path></g><g fill="#000000" fill-opacity="0" opacity="0" style="pointer-events: none;" display="none"><path d="M0,0 L0,201.98 L155.42624,201.98 L155.42624,0 L0,0"></path></g><g fill-opacity="0" stroke-opacity="0" stroke="#000000" stroke-width="1" display="none" transform="translate(582.8579199999999,201.98)"><path d=" M0,0  L0,5 " transform="translate(-0.5,-0.5)"></path></g><g stroke="#000000" stroke-opacity="0" fill="none" display="none" transform="translate(582.8579199999999,0)"><path d=" M0,0  L0,201.98 " transform="translate(-0.5,-0.5)"></path></g><g fill="#000000" fill-opacity="0" opacity="1" style="pointer-events: none;"><path d="M544,0 L544,201.98 L544,201.98 L544,0 L544,0"></path></g><g fill-opacity="0" stroke-opacity="0" stroke="#000000" stroke-width="1" transform="translate(272,201.98)" display="none"><path d=" M0,0  L0,5 " transform="translate(-0.5,-0.5)"></path></g><g stroke="#000000" stroke-opacity="0" fill="none" transform="translate(272,0)" display="none"><path d=" M0,0  L0,201.98 " transform="translate(-0.5,-0.5)"></path></g><g fill="#000000" fill-opacity="0" opacity="0" style="pointer-events: none;" display="none"><path d="M233.14208,0 L233.14208,201.98 L388.57376,201.98 L388.57376,0 L233.14208,0"></path></g><g fill-opacity="0" stroke-opacity="0" stroke="#000000" stroke-width="1" transform="translate(505.14208,201.98)"><path d=" M0,0  L0,5 " transform="translate(-0.5,-0.5)"></path></g><g stroke="#000000" stroke-opacity="0" fill="none" transform="translate(505.14208,0)"><path d=" M0,0  L0,201.98 " transform="translate(-0.5,-0.5)"></path></g><g fill="#000000" fill-opacity="0" opacity="1" style="pointer-events: none;"><path d="M466.28416,0 L466.28416,201.98 L544,201.98 L544,0 L466.28416,0"></path></g><g fill-opacity="0" stroke-opacity="0" stroke="#000000" stroke-width="1" transform="translate(194.28416,201.98)"><path d=" M0,0  L0,5 " transform="translate(-0.5,-0.5)"></path></g><g stroke="#000000" stroke-opacity="0" fill="none" transform="translate(194.28416,0)"><path d=" M0,0  L0,201.98 " transform="translate(-0.5,-0.5)"></path></g><g fill="#000000" fill-opacity="0" opacity="1" style="pointer-events: none;"><path d="M155.42624,0 L155.42624,201.98 L310.85792,201.98 L310.85792,0 L155.42624,0"></path></g><g fill-opacity="0" stroke-opacity="0" stroke="#000000" stroke-width="1" transform="translate(349.71584,201.98)"><path d=" M0,0  L0,5 " transform="translate(-0.5,-0.5)"></path></g><g stroke="#000000" stroke-opacity="0" fill="none" transform="translate(349.71584,0)"><path d=" M0,0  L0,201.98 " transform="translate(-0.5,-0.5)"></path></g><g fill="#000000" fill-opacity="0" opacity="0" style="pointer-events: none;" display="none"><path d="M310.85792,0 L310.85792,201.98 L466.28416,201.98 L466.28416,0 L310.85792,0"></path></g></g></g><g><g><g role="group" stroke-opacity="1" fill-opacity="0" fill="#c4c2c3" stroke="#c4c2c3" aria-label="iphone" stroke-width="4" stroke-dasharray="10"><g><g clip-path="url(#id-110)"><g><g><g><g fill="#c4c2c3" fill-opacity="0" stroke="#c4c2c3" stroke-opacity="1" stroke-width="4" stroke-dasharray="10" style="pointer-events: none;"><g><g stroke-opacity="0"><path></path></g><g fill-opacity="0"><path d=" M38.6579,201.8  M38.8579,202  C54.4019,201.9995 85.487,151.5002 116.5738,151.5 C147.6606,151.4998 163.1974,181.8001 194.2842,181.8 C225.371,181.7999 240.9121,141.4 272,141.4 C303.0879,141.4 318.629,181.8 349.7158,181.8 C380.8026,181.8 396.3394,141.3999 427.4262,141.4 C458.513,141.4001 489.5981,191.8995 505.1421,191.9"></path></g></g></g></g></g></g></g><g></g></g></g><g role="group" stroke-opacity="1" fill-opacity="0" fill="#716aca" stroke="#716aca" aria-label="itouch" stroke-width="4" filter="url(#filter-id-122)"><g><g clip-path="url(#id-127)"><g><g><g><g fill="#716aca" fill-opacity="0" stroke="#716aca" stroke-opacity="1" stroke-width="4" style="pointer-events: none;"><g><g stroke-opacity="0"><path></path></g><g fill-opacity="0"><path d=" M38.6579,141.2  M38.8579,141.4  C54.4019,141.4006 85.487,196.9004 116.5738,196.9 C147.6606,196.8996 163.1974,101.0006 194.2842,101 C225.371,100.9994 240.9121,141.4007 272,141.4 C303.0879,141.3993 318.629,30.2996 349.7158,30.3 C380.8026,30.3004 396.3394,176.6989 427.4262,176.7 C458.513,176.7011 489.5981,141.4004 505.1421,141.4"></path></g></g></g></g></g></g></g><g></g></g></g></g></g><g clip-path="url(#id-326)"><g><g fill="#c4c2c3" stroke="#c4c2c3"><g></g></g><g filter="url(#filter-id-128)" fill="#716aca" stroke="#716aca"><g></g></g></g></g><g><g></g></g><g><g></g></g><g opacity="0" visibility="hidden" style="touch-action: none; user-select: none; -webkit-user-drag: none;"><g><g fill-opacity="0.2" fill="#000000" style="pointer-events: none;"><path></path></g><g stroke="#000000" fill="none" stroke-dasharray="3,3" stroke-opacity="0.4" style="pointer-events: none;"><path d=" M0,0  L0,201.98 "></path></g><g stroke="#000000" fill="none" stroke-dasharray="3,3" stroke-opacity="0.4" style="pointer-events: none;"><path d=" M0,0  L544,0 "></path></g></g></g><g role="button" focusable="true" opacity="0" visibility="hidden" transform="translate(504,-3)" aria-labelledby="id-19-title"><g fill="#6794dc" stroke="#ffffff" fill-opacity="1" stroke-opacity="0" transform="translate(0,8)"><path d="M17,0 L18,0 a17,17 0 0 1 17,17 L35,17 a17,17 0 0 1 -17,17 L17,34 a17,17 0 0 1 -17,-17 L0,17 a17,17 0 0 1 17,-17 Z"></path></g><g transform="translate(9,9)"><g stroke="#ffffff" style="pointer-events: none;" transform="translate(0,8)"><path d=" M0,0  L11,0 " transform="translate(2.5,7.5)"></path></g><g fill="#000000" style="pointer-events: none;" transform="translate(17,8)"><g display="none"></g></g></g><title id="id-19-title">Zoom Out</title></g></g></g><g><g><g><g><g fill="#000000" transform="translate(0,100.99) rotate(-90)"><g display="none"></g></g><g stroke="#000000" stroke-opacity="0.15" fill="none" transform="translate(50,202)" opacity="0" visibility="hidden"><path transform="translate(-0.5,-0.5)" d=" M0,0  L466,0 "></path></g><g transform="translate(0,0)"><g><g fill="#000000" fill-opacity="0" opacity="0" stroke-opacity="0" transform="translate(45,101)"><g transform="translate(-35,-9)" style="user-select: none;"><text x="0" y="18" dy="-3.6"><tspan>250</tspan></text></g></g><g fill="#000000" transform="translate(45,303)" display="none"><g transform="translate(-40,-9)" style="user-select: none;"><text x="0" y="18" dy="-3.6"><tspan>-100</tspan></text></g></g><g fill="#000000" transform="translate(45,252.5)" display="none"><g transform="translate(-32,-9)" style="user-select: none;"><text x="0" y="18" dy="-3.6"><tspan>-50</tspan></text></g></g><g fill="#000000" transform="translate(45,202)"><g transform="translate(-19,-9)" style="user-select: none;"><text x="0" y="18" dy="-3.6"><tspan>0</tspan></text></g></g><g fill="#000000" transform="translate(45,151.5)"><g transform="translate(-27,-9)" style="user-select: none;"><text x="0" y="18" dy="-3.6"><tspan>50</tspan></text></g></g><g fill="#000000" transform="translate(45,101)"><g transform="translate(-35,-9)" style="user-select: none;"><text x="0" y="18" dy="-3.6"><tspan>100</tspan></text></g></g><g fill="#000000" transform="translate(45,50.5)"><g transform="translate(-35,-9)" style="user-select: none;"><text x="0" y="18" dy="-3.6"><tspan>150</tspan></text></g></g><g fill="#000000" transform="translate(45,0)"><g transform="translate(-35,-9)" style="user-select: none;"><text x="0" y="18" dy="-3.6"><tspan>200</tspan></text></g></g><g fill="#000000" transform="translate(45,-50.5)" display="none"><g transform="translate(-35,-9)" style="user-select: none;"><text x="0" y="18" dy="-3.6"><tspan>250</tspan></text></g></g></g></g><g stroke="#000000" stroke-opacity="0" fill="none" style="pointer-events: none;" transform="translate(45,0)"><path d=" M0,0  L0,201.98 " transform="translate(-0.5,-0.5)"></path></g></g></g></g></g><g transform="translate(589,0)"><g></g></g></g></g><g><g transform="translate(45,0)"></g></g><g transform="translate(0,201.98)"><g transform="translate(45,0)"><g><g><g stroke="#000000" stroke-opacity="0" fill="none" style="pointer-events: none;"><path d=" M0,0  L544,0 " transform="translate(-0.5,-0.5)"></path></g><g stroke="#000000" stroke-opacity="0.15" fill="none" display="none" transform="translate(544,-201.98)" opacity="0" visibility="hidden"><path transform="translate(-0.5,-0.5)" d=" M0,0  L0,201.98 "></path></g><g><g><g fill="#000000" fill-opacity="0" opacity="0" stroke-opacity="0" transform="translate(272,0)"><g transform="translate(-4,10)" style="user-select: none;"><text x="0" y="18.015625" dy="-3.603"><tspan>L</tspan></text></g></g><g fill="#000000" transform="translate(38.85791999999999,0)"><g transform="translate(-16.5,10)" style="user-select: none;"><text x="0" y="18" dy="-3.6"><tspan>2010</tspan></text></g></g><g fill="#000000" display="none" transform="translate(582.8579199999999,0)"><g transform="translate(0,10)" display="none"></g></g><g fill="#000000" transform="translate(272,0)" display="none"><g transform="translate(-16.5,10)" style="user-select: none;"><text x="0" y="18" dy="-3.6"><tspan>2013</tspan></text></g></g><g fill="#000000" transform="translate(505.14208,0)"><g transform="translate(-16.5,10)" style="user-select: none;"><text x="0" y="18" dy="-3.6"><tspan>2016</tspan></text></g></g><g fill="#000000" transform="translate(194.28416,0)"><g transform="translate(-16.5,10)" style="user-select: none;"><text x="0" y="18" dy="-3.6"><tspan>2012</tspan></text></g></g><g fill="#000000" transform="translate(349.71584,0)"><g transform="translate(-16.5,10)" style="user-select: none;"><text x="0" y="18" dy="-3.6"><tspan>2014</tspan></text></g></g></g></g><g fill="#000000" transform="translate(272,38.015625)"><g display="none"></g></g></g></g></g></g></g></g></g></g></g></g><g><g><g filter="url(#filter-id-29)" role="tooltip" visibility="hidden" opacity="0"><g fill="#ffffff" fill-opacity="0.9" stroke-width="1" stroke-opacity="1" stroke="#ffffff" style="pointer-events: none;" transform="translate(0,6)"><path d="M3,0 L3,0 L0,-6 L13,0 L21,0 a3,3 0 0 1 3,3 L24,10 a3,3 0 0 1 -3,3 L3,13 a3,3 0 0 1 -3,-3 L0,3 a3,3 0 0 1 3,-3"></path></g><g><g fill="#ffffff" style="pointer-events: none;" transform="translate(12,6)"><g transform="translate(0,7)" display="none"></g></g></g></g><g visibility="hidden" display="none" style="pointer-events: none;"><g fill="#ffffff" opacity="1"><rect width="619" height="270"></rect></g><g><g transform="translate(186.5,135)"><g><g stroke-opacity="1" fill="#f3f3f3" fill-opacity="0.8"><g><g><path d=" M53,0  a53,53,0,0,1,-106,0 a53,53,0,0,1,106,0 M42,0  a42,42,0,0,0,-84,0 a42,42,0,0,0,84,0 L42,0 "></path></g></g></g><g stroke-opacity="1" fill="#000000" fill-opacity="0.2"><g><g><path d=" M50,0  a50,50,0,0,1,-100,0 a50,50,0,0,1,100,0 M45,0  a45,45,0,0,0,-90,0 a45,45,0,0,0,90,0 L45,0 "></path></g></g></g><g fill="#000000" fill-opacity="0.4"><g transform="translate(-17.5,-9)" style="user-select: none;"><text x="0" y="18" dy="-3.6"><tspan>100%</tspan></text></g></g></g></g></g></g><g opacity="0.3" aria-labelledby="id-47-title" filter="url(#filter-id-47)" style="cursor: pointer;" transform="translate(0,249)"><g fill="#ffffff" opacity="0"><rect width="66" height="21"></rect></g><g><g shape-rendering="auto" fill="none" stroke-opacity="1" stroke-width="1.7999999999999998" stroke="#3cabff"><path d=" M15,15  C17.4001,15 22.7998,15.0001 27,15 C31.2002,14.9999 33.2999,6 36,6 C38.7001,6 38.6999,10.5 40.5,10.5 C42.3001,10.5 42.2999,6 45,6 C47.7001,6 50.9999,14.9999 54,15 C57.0002,15.0001 58.7999,15 60,15"></path></g><g shape-rendering="auto" fill="none" stroke-opacity="1" stroke-width="1.7999999999999998" stroke="url(#gradient-id-50)"><path d=" M6,15  C8.2501,15 9.7498,15.0001 15,15 C20.2502,14.9999 20.7748,3.6 27,3.6 C33.2252,3.6 33.8998,14.9999 39.9,15 C45.9002,15.0001 45.9748,15 51,15 C56.0252,15 57.7499,15 60,15"></path></g></g><title id="id-47-title">Chart created using amCharts library</title></g><g role="tooltip" visibility="hidden" opacity="0"><g fill="#000000" fill-opacity="1" stroke-width="1" stroke-opacity="1" stroke="#000000" style="pointer-events: none;" transform="translate(60,216.98)"><path d="M0,0 L20,0 a0,0 0 0 1 0,0 L20,10 a0,0 0 0 1 -0,0 L0,10 a0,0 0 0 1 -0,-0 L0,0 a0,0 0 0 1 0,-0"></path></g><g><g fill="#ffffff" style="pointer-events: none;" transform="translate(70,216.98)"><g transform="translate(0,5)" display="none"></g></g></g></g><g role="tooltip" visibility="hidden" opacity="0"><g fill="#000000" fill-opacity="1" stroke-width="1" stroke-opacity="1" stroke="#000000" style="pointer-events: none;" transform="translate(-25,15)"><path d="M0,0 L20,0 a0,0 0 0 1 0,0 L20,0 L20,0 L25,0 L20,10 L20,10 a0,0 0 0 1 -0,0 L0,10 a0,0 0 0 1 -0,-0 L0,0 a0,0 0 0 1 0,-0"></path></g><g><g fill="#ffffff" style="pointer-events: none;" transform="translate(-15,15)"><g transform="translate(0,5)" display="none"></g></g></g></g><g filter="url(#filter-id-112)" role="tooltip" visibility="hidden" opacity="0"><g fill="#ffffff" fill-opacity="0.9" stroke-width="1" stroke-opacity="1" stroke="#ffffff" style="pointer-events: none;" transform="translate(6,0)"><path d="M3,0 L21,0 a3,3 0 0 1 3,3 L24,10 a3,3 0 0 1 -3,3 L3,13 a3,3 0 0 1 -3,-3 L0,10 L0,10 L-6,0 L0,0 L0,3 a3,3 0 0 1 3,-3"></path></g><g><g fill="#ffffff" style="pointer-events: none;" transform="translate(18,0)"><g transform="translate(0,7)" display="none"></g></g></g></g><g filter="url(#filter-id-129)" role="tooltip" visibility="hidden" opacity="0"><g fill="#ffffff" fill-opacity="0.9" stroke-width="1" stroke-opacity="1" stroke="#ffffff" style="pointer-events: none;" transform="translate(6,0)"><path d="M3,0 L21,0 a3,3 0 0 1 3,3 L24,10 a3,3 0 0 1 -3,3 L3,13 a3,3 0 0 1 -3,-3 L0,10 L0,10 L-6,0 L0,0 L0,3 a3,3 0 0 1 3,-3"></path></g><g><g fill="#ffffff" style="pointer-events: none;" transform="translate(18,0)"><g transform="translate(0,7)" display="none"></g></g></g></g></g></g></g></g></svg></div></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-5">
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <div class="card mb-4 bg-pattern-2-dark">
+                                            <div class="card-body">
+                                                <div class="d-flex align-items-center">
+                                                    <div class="lnr lnr-gift display-4 text-primary"></div>
+                                                    <div class="ml-3">
+                                                        <div class="text-muted small">Products</div>
+                                                        
+                                                        <div class="text-large">{{countpro1}}</div>
+                                                    
+                                                    </div>
+                                                </div>
+                                                <div id="ecom-chart-3" class="mt-3 chart-shadow-primary" style="height: 40px; padding: 0px; position: relative;"><canvas class="flot-base" width="619" height="40" style="direction: ltr; position: absolute; left: 0px; top: 0px; width: 619px; height: 40px;"></canvas><canvas class="flot-overlay" width="619" height="40" style="direction: ltr; position: absolute; left: 0px; top: 0px; width: 619px; height: 40px;"></canvas></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="card mb-4 bg-pattern-2 bg-primary text-white">
+                                            <div class="card-body">
+                                                <div class="d-flex align-items-center">
+                                                    <div class="lnr lnr-cart display-4"></div>
+                                                    <div class="ml-3">
+                                                        <div class="small"> Orders </div>
+                                                        <div class="text-large">{{countord1}}</div>
+                                                    </div>
+                                                </div>
+                                                <div id="order-chart-1" class="mt-3 chart-shadow" style="height: 40px; padding: 0px; position: relative;"><canvas class="flot-base" width="619" height="40" style="direction: ltr; position: absolute; left: 0px; top: 0px; width: 619px; height: 40px;"></canvas><canvas class="flot-overlay" width="619" height="40" style="direction: ltr; position: absolute; left: 0px; top: 0px; width: 619px; height: 40px;"></canvas></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12">
+                                        <div class="card d-flex w-100 mb-4">
+                                            <div class="row no-gutters row-bordered row-border-light h-100">
+                                                <div class="d-flex col-sm-6 col-md-4 col-lg-6 align-items-center">
+                                                    <div class="card-body media align-items-center text-dark">
+                                                        <i class="lnr lnr-diamond display-4 d-block text-primary"></i>
+                                                        <span class="media-body d-block ml-3"><span class="text-big mr-1 text-primary">{{countCust1}}</span>
+                                                            <br>
+                                                            <small class="text-muted">Customer in website</small>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="d-flex col-sm-6 col-md-4 col-lg-6 align-items-center">
+                                                    <div class="card-body media align-items-center text-dark">
+                                                        <i class="lnr lnr-clock display-4 d-block text-primary"></i>
+                                                        <span class="media-body d-block ml-3"><span class="text-big"><span class="mr-1 text-primary">{{countord1}}</span> Orders</span>
+                                                            <br>
+                                                            <small class="text-muted">Total order</small>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="d-flex col-sm-6 col-md-4 col-lg-6 align-items-center">
+                                                    <div class="card-body media align-items-center text-dark">
+                                                        <i class="lnr lnr-hourglass display-4 d-block text-primary"></i>
+                                                        <span class="media-body d-block ml-3"><span class="text-big"><span class="mr-1 text-primary">{{countpro1}}</span> Products</span>
+                                                            <br>
+                                                            <small class="text-muted">All product </small>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="d-flex col-sm-6 col-md-4 col-lg-6 align-items-center">
+                                                    <div class="card-body media align-items-center text-dark">
+                                                        <i class="lnr lnr-license display-4 d-block text-primary"></i>
+                                                        <span class="media-body d-block ml-3"><span class="text-big"><span class="mr-1 text-primary">{{countEmpl1}}</span> Employees</span>
+                                                            <br>
+                                                            <small class="text-muted"> Employees in website</small>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- 1st row Start -->
+                        </div>
+                        <div class="row">
+                            <!-- 2nd row Start -->
+                            <div class="col-md-12">
+                                <div class="card d-flex w-100 mb-4">
+                                    <div class="row no-gutters row-bordered row-border-light h-100">
+                                        <div class="d-flex col-md-6 col-lg-3 align-items-center">
+                                            <div class="card-body">
+                                                <div class="row align-items-center mb-3">
+                                                    <div class="col-auto">
+                                                        <i class="lnr lnr-earth text-primary display-4"></i>
+                                                    </div>
+                                                    <div class="col">
+                                                        <h6 class="mb-0 text-muted">Total <span class="text-primary">Products</span></h6>
+                                                        <h4 class="mt-3 mb-0">{{countpro1}}<i class="ion ion-md-arrow-round-up ml-3 text-success"></i></h4>
+                                                    </div>
+                                                </div>
+                                                <p class="mb-0 text-muted">Here Total Products </p>
+                                            </div>
+                                        </div>
+                                        <div class="d-flex col-md-6 col-lg-3 align-items-center">
+                                            <div class="card-body">
+                                                <div class="row align-items-center mb-3">
+                                                    <div class="col-auto">
+                                                        <i class="lnr lnr-cart text-primary display-4"></i>
+                                                    </div>
+                                                    <div class="col">
+                                                        <h6 class="mb-0 text-muted"><span class="text-primary">Total</span> Orders </h6>
+                                                        <h4 class="mt-3 mb-0">{{countord1}}<i class="ion ion-md-arrow-round-up ml-3 text-success"></i></h4>
+                                                    </div>
+                                                </div>
+                                                <p class="mb-0 text-muted">Here Total Orders  </p>
+                                            </div>
+                                        </div>
+                                        <div class="d-flex col-md-6 col-lg-3 align-items-center">
+                                            <div class="card-body">
+                                                <div class="row align-items-center mb-3">
+                                                    <div class="col-auto">
+                                                        <i class="lnr lnr-users text-primary display-4"></i>
+                                                    </div>
+                                                    <div class="col">
+                                                        <h6 class="mb-0 text-muted"> Number of  <span class="text-primary">Customers</span></h6>
+                                                        <h4 class="mt-3 mb-0">{{countCust1}}<i class="ion ion-md-arrow-round-up ml-3 text-success"></i></h4>
+                                                    </div>
+                                                </div>
+                                                <p class="mb-0 text-muted">Here Number of Customers </p>
+                                            </div>
+                                        </div>
+                                        <div class="d-flex col-md-6 col-lg-3 align-items-center">
+                                            <div class="card-body">
+                                                <div class="row align-items-center mb-3">
+                                                    <div class="col-auto">
+                                                        <i class="lnr lnr-magic-wand text-primary display-4"></i>
+                                                    </div>
+                                                    <div class="col">
+                                                        <h6 class="mb-0 text-muted">Number of <span class="text-primary">Employees</span></h6>
+                                                        <h4 class="mt-3 mb-0">{{countEmpl1}}<i class="ion ion-md-arrow-round-up ml-3 text-success"></i></h4>
+                                                    </div>
+                                                </div>
+                                                <p class="mb-0 text-muted">Here Number of Employees</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- Staustic card 3 Start -->
+                            </div>
+                            <!-- 2nd row Start -->
+                        </div>
+                   
+                    </div>
+                    <!-- [ content ] End -->
+
+                    <!-- [ Layout footer ] Start -->
+                    <nav class="layout-footer footer bg-white">
+                        <div class="container-fluid d-flex flex-wrap justify-content-between text-center container-p-x pb-3">
+                            <div class="pt-3">
+                                <span class="footer-text font-weight-semibold">© <a href="https://srthemesvilla.com" class="footer-link" target="_blank">Srthemesvilla</a></span>
+                            </div>
+                            <div>
+                                <a href="javascript:" class="footer-link pt-3">About Us</a>
+                                <a href="javascript:" class="footer-link pt-3 ml-4">Help</a>
+                                <a href="javascript:" class="footer-link pt-3 ml-4">Contact</a>
+                                <a href="javascript:" class="footer-link pt-3 ml-4">Terms &amp; Conditions</a>
+                            </div>
+                        </div>
+                    </nav>
+                    <!-- [ Layout footer ] End -->
+                </div>
+                <!-- [ Layout content ] Start -->
+            </div>
+            <!-- [ Layout container ] End -->
+        </div>
+        <!-- Overlay -->
+        <div class="layout-overlay layout-sidenav-toggle"></div>
+    </div>
+    <!-- [ Layout wrapper] End -->
+
+    <!-- Core scripts -->
+    <script src="../../assets2/js/pace.js"></script>
+    <script src="../../assets2/js/jquery-3.3.1.min.js"></script>
+    <script src="../../assets2/libs/popper/popper.js"></script>
+    <script src="../../assets2/js/bootstrap.js"></script>
+    <script src="../../assets2/js/sidenav.js"></script>
+    <script src="../../assets2/js/layout-helpers.js"></script>
+    <script src="../../assets2/js/material-ripple.js"></script>
+
+    <!-- Libs -->
+    <script src="../../assets2/libs/perfect-scrollbar/perfect-scrollbar.js"></script>
+    <script src="../../assets2/libs/eve/eve.js"></script>
+    <script src="../../assets2/libs/flot/flot.js"></script>
+    <script src="../../assets2/libs/flot/curvedLines.js"></script>
+    <script src="../../assets2/libs/chart-am4/core.js"></script>
+    <script src="../../assets2/libs/chart-am4/charts.js"></script>
+    <script src="../../assets2/libs/chart-am4/animated.js"></script>
+
+    <!-- Demo -->
+    <script src="../../assets2/js/demo.js"></script><div class="fixed-button"><a href="https://codedthemes.com/item/bhumlu-bootstrap-admin-template/" target="_blank" class="btn btn-md btn-primary"><i class="fa fa-shopping-cart" aria-hidden="true"></i> Buy now</a> </div><script src="assets2/js/analytics.js"></script>
+    <script src="../../assets2/js/pages/dashboards_index.js"></script>
+
+
+
+<div hidden="" style="position: relative;"><div dir="ltr" class="resize-sensor" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div class="resize-sensor-expand" style="pointer-events: none; position: absolute; left: 0px; top: 0px; right: 0; bottom: 0; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div style="position: absolute; left: 0; top: 0; transition: 0s;"></div></div><div class="resize-sensor-shrink" style="pointer-events: none; position: absolute; left: 0px; top: 0px; right: 0; bottom: 0; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div style="position: absolute; left: 0; top: 0; transition: 0s; width: 200%; height: 200%"></div></div></div><div style="width: 100%; height: 100%; position: relative;"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="group" style="width: 100%; height: 100%; overflow: visible;"><desc>JavaScript chart by amCharts</desc><defs><clipPath id="id-97"><path></path></clipPath><filter id="filter-id-99" width="200%" height="200%" x="-50%" y="-50%"><feGaussianBlur result="blurOut" in="SourceGraphic" stdDeviation="1.5"></feGaussianBlur><feOffset result="offsetBlur" dx="1" dy="1"></feOffset><feFlood flood-color="#000000" flood-opacity="0.5"></feFlood><feComposite in2="offsetBlur" operator="in"></feComposite><feMerge><feMergeNode></feMergeNode><feMergeNode in="SourceGraphic"></feMergeNode></feMerge></filter></defs></svg></div></div><div class="flotTip" style="display: none; position: absolute; background: rgb(255, 255, 255); z-index: 1040; padding: 0.4em 0.6em; border-radius: 0.5em; font-size: 0.8em; border: 1px solid rgb(17, 17, 17); white-space: nowrap;"></div></body>
+

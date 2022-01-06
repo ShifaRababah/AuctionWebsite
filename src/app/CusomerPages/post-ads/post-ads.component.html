@@ -1,0 +1,132 @@
+<app-navbar></app-navbar>
+
+<div class="page-header" style="background: url(assets/img/banner1.jpg);">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="breadcrumb-wrapper">
+          <h2 class="product-title">Post your Ads</h2>
+          <ol class="breadcrumb">
+            <li><a href="#">Home /</a></li>
+            <li class="current">Post you Ads</li>
+          </ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div id="content" class="section-padding">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12 col-md-4 col-lg-3 page-sidebar">
+
+        <app-sidebarcust></app-sidebarcust>
+
+
+      </div>
+
+      <div class="col-sm-12 col-md-8 col-lg-9">
+        <div class="row page-content">
+          <div class="col-xs-12 col-sm-12 col-md-12 col-lg-7">
+            <div class="inner-box">
+
+              <div class="dashboard-box">
+                <h2 class="dashbord-title">Ad Detail</h2>
+              </div>
+              <form class="form-group mb-3" [formGroup]="createproduct11" (ngSumbit)="createproduct1()">
+                <div class="dashboard-wrapper">
+                  <div class="form-group mb-3">
+                    <label class="control-label"> Title</label>
+                    <input class="form-control input-md" id="Title" name="Title" formControlName="Title"
+                      placeholder="Title" type="text">
+                  </div>
+
+                  <form #myform='ngForm'>
+                    <div class="form-group mb-3 tg-inputwithicon">
+                      <label class="control-label">Categories</label>
+                      <div class="tg-select form-control">
+                        <option value="Category" disabled selected hidden>Category</option>
+                      <select name="catList" [(ngModel)]='selectedCat'>
+                        <option (click)='createproduct1()' *ngFor='let cat of categoriesList' value='{{cat.categoryId}}'>
+                          {{cat.name}}</option>
+                     
+                      </select>
+                      </div>
+                      </div>
+                    </form>
+
+
+                  <div class="form-group mb-3">
+                    <label class="control-label">Starting Price</label>
+                    <input class="form-control input-md" id="PriceProduct" name="PriceProduct"
+                      formControlName="PriceProduct" placeholder="PriceProduct" type="number">
+                  </div>
+                  <div class="form-group mb-3">
+                    <label class="control-label">Start Date</label>
+                    <input class="form-control input-md" id="StartDate" name="StartDate" formControlName="StartDate"
+                      placeholder="StartDate" type="date">
+                  </div>
+                  <div class="form-group mb-3">
+                    <label class="control-label">End Date</label>
+                    <input class="form-control input-md" id="EndDate" name="EndDate" formControlName="EndDate"
+                      placeholder="EndDate" type="date">
+                  </div>
+
+                  <!---->
+
+                  
+                  
+
+                 
+
+                  <!---->
+
+                  <!---->
+
+                  <!---->
+                 
+
+                  <div class="form-group mb-3">
+                    <label class="control-label">Description</label>
+                    <input class="form-control input-md" id="Description" name="Description"
+                      formControlName="Description" placeholder="Description" type="text">
+
+                  </div>
+
+         
+
+
+
+                    <label class="tg-fileuploadlabel" for="tg-photogallery">
+                      <span>Drop files anywhere to upload</span>
+                      <span>Or</span>
+                      <span class="btn btn-common">Select Files</span>
+                      <span>Maximum upload file size: 500 KB</span>
+                     
+                      <input #imageInput id="tg-photogallery" class="tg-fileinput" type="file" accept="image/*" ngModel="nameIamge" value={{nameIamge}}
+                      formControlName="Image" (change)="processFile(imageInput.files)">
+
+                      </label>
+                      <br/>
+                      <button class="btn btn-common" (click)='createproduct1()' type="button" style="margin-left: 173px;">Post Ad</button>
+              
+
+
+
+                </div>
+              </form>
+            </div>
+          </div>
+
+
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+
+<app-footer></app-footer>

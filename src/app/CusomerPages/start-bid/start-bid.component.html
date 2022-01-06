@@ -1,0 +1,119 @@
+<app-navbar></app-navbar>
+
+<div class="page-header" style="background: url(assets/img/banner1.jpg);">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="breadcrumb-wrapper">
+                    <h2 class="product-title">Start Bid</h2>
+                    <ol class="breadcrumb">
+                        <li><a href="#"> Start Bid /</a></li>
+                        <li class="current">Bid </li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="section-padding">
+    <div class="container">
+
+        <div class="product-info row">
+            <div class="col-lg-8 col-md-12 col-xs-12">
+                <div class="ads-details-wrapper">
+                    <div id="owl-demo" class="owl-carousel owl-theme owl-loaded owl-drag">
+
+
+
+                        <div class="owl-stage-outer">
+                            <div class="owl-stage"
+                                style="transform: translate3d(-2280px, 0px, 0px); transition: all 0.35s ease 0s; width: 5320px;">
+                                <div class="owl-item cloned" style="width: 730px; margin-right: 30px;">
+                                    <div class="item">
+                                        <div class="product-img">
+                                            <img class="img-fluid" src="assets/img/productinfo/img3.jpg" alt="">
+                                        </div>
+                                        <span class="price">$88</span>
+                                    </div>
+                                </div>
+
+                                <div class="owl-item active" style="width: 730px; margin-right: 30px;">
+                                    <div class="item">
+                                        <div class="product-img">
+                                            <img class="img-fluid" src="assets/img/productinfo/img3.jpg" alt="">
+                                        </div>
+                                        <span class="price">$33</span>
+                                    </div>
+                                </div>
+
+
+                                <div class="owl-item cloned" style="width: 730px; margin-right: 30px;">
+                                    <div class="item">
+                                        <div class="product-img">
+                                            <img class="img-fluid" src="assets/img/productinfo/img1.jpg" alt="">
+                                        </div>
+                                        <span class="price">$55</span>
+                                    </div>
+                                </div>
+                                <div class="owl-item cloned" style="width: 730px; margin-right: 30px;">
+                                    <div class="item">
+                                        <div class="product-img">
+                                            <img class="img-fluid" src="/assets/img/{{productSelected.image}}" alt="">
+                                        </div>
+                                        <!-- <span class="price">$66</span> -->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+
+            <div class="col-lg-4 col-md-6 col-xs-12">
+
+                <aside class="details-sidebar">
+                    <div class="widget">
+                        <h4 style="color:#e91e63" class="widget-title">Start Bid</h4>
+
+                        <div class="agent-inner">
+                            <div class="agent-title">
+                              
+                                <a style="color:#e91e63"><i class="lni-tag"></i>Start Date : {{productSelected.startDate}}</a>
+                                <br />
+                                <br />
+                                <a style="color:#e91e63"><i class="lni-tag"></i> End Date :{{productSelected.endDate}} </a>
+                                <br />
+                                <br />
+                                <h5 style="color:#e91e63" class="price float-left"> Last Price: $ {{productSelected.price}}</h5>
+                                <br />
+                                <br />
+
+                                <br />
+                                <br />
+                                <!-- <h5><a>Put the highest price for the product</a></h5> -->
+                                <form class="search-form" [formGroup]="bidform" (ngSubmit)="bidNow()">
+                                    <input style="color:#e91e63" formControlName="price" type="number" class="form-control"
+                                        placeholder="Your Price">
+                                    <button (onclick)="bidNow()" class="btn btn-common fullwidth mt-4">Send</button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+
+
+                </aside>
+
+            </div>
+        </div>
+
+    </div>
+</div>
+
+
+
+<app-footer></app-footer>

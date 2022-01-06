@@ -1,0 +1,143 @@
+<app-navbar></app-navbar>
+
+<div class="page-header" style="background: url(assets/img/banner1.jpg);">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="breadcrumb-wrapper">
+                    <h2 class="product-title">Contact Us</h2>
+                    <ol class="breadcrumb">
+                        <li><a href="#">Home /</a></li>
+                        <li class="current">Contact Us</li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<section id="content" class="section-padding">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-md-8 col-xs-12">
+
+                <form [formGroup]="createContact" (ngSumbit)="createContact1()" class="login-form">
+                    <h2 class="contact-title">
+                        Send Message Us
+                    </h2>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="row">
+                                <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
+
+                                    <div class="form-group">
+
+                                        <input type="text" id="Name" class="form-control" name="Name"
+                                            formControlName="Name" placeholder="Name" required=""
+                                            data-error="Please enter your name">
+                                        <small
+                                            *ngIf="createContact.get('Name').invalid &&createContact.get('Name').touched"
+                                            class="text-danger">*User Name is
+                                            Required</small>
+                                        <div class="help-block with-errors">
+
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
+                                    <div class="form-group">
+
+                                        <input matInput type="email" class="form-control" id="Email"
+                                            formControlName="Email" placeholder="Email" required />
+                                        <small
+                                            *ngIf="createContact.get('Email').invalid &&createContact.get('Email').touched"
+                                            class="text-danger">*Email is Required and Must be a correct</small>
+                                        <div class="help-block with-errors"></div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
+                                    <div class="form-group">
+
+                                        <input type="text" class="form-control" id="msg_subject" name="subject"
+                                            placeholder="Subject" required="" data-error="Please enter your subject">
+
+                                        <div class="help-block with-errors"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-12 col-md-12 col-lg-12">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <div class="form-group">
+
+                                        <textarea class="form-control" id="Massege" name="Massege"
+                                            formControlName="Massege" placeholder="Massage" rows="7"
+                                            data-error="Write your message" required></textarea>
+                                        <small
+                                            *ngIf="createContact.get('Massege').invalid &&createContact.get('Massege').touched"
+                                            class="text-danger">*Massege is Required and must be 8 digit at least
+                                            !</small>
+
+                                        <div class="help-block with-errors"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-12">
+                            <button [disabled]="createContact.invalid" class="btn btn-common log-btn"
+                                (click)="createContact1()">Send Message </button>
+                            <div id="msgSubmit" class="h3 text-center hidden"></div>
+                            <div class="clearfix"></div>
+
+                        </div>
+                    </div>
+                </form>
+            </div>
+            <div class="col-lg-4 col-md-4 col-xs-12">
+                <div class="information mb-4">
+                    <h3>Address</h3>
+                    <div class="contact-datails">
+                        <p>9870 St Jordan Place, Irbid, DC 45
+                            Fr 45.</p>
+                    </div>
+                </div>
+                <div class="information">
+                    <h3>Contact Info</h3>
+                    <div class="contact-datails">
+                        <ul class="list-unstyled info">
+                            <li><span>Address : </span>
+                                <p> 9870 St Jordan Place, Irbid, DC 45 Fr 45</p>
+                            </li>
+                            <li><span>Email : </span>
+                                <p><a href="#">support@auction.com</a></p>
+                            </li>
+                            <li><span>Phone : </span>
+                                <p>+962 444 66647 &amp; +9625 444 66647</p>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="google-map-area">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+
+
+                <iframe style="border:10px; height: 450px; width: 100%;"
+                    src="https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d1717133.5820467635!2d38.22932944718283!3d32.79818422047963!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x151c76916dac0453%3A0x5416e113d81f7d82!2z2KXYsdio2K_igK0!3m2!1d32.5568095!2d35.846886999999995!5e0!3m2!1sar!2sjo!4v1640970027856!5m2!1sar!2sjo"
+                    width="1100" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<app-footer></app-footer>

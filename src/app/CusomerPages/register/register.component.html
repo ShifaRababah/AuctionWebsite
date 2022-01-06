@@ -1,0 +1,85 @@
+<app-navbar></app-navbar>
+
+<div class="page-header" style="background: url(assets/img/banner1.jpg);">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="breadcrumb-wrapper">
+                    <h2 class="product-title">Join Us</h2>
+                    <ol class="breadcrumb">
+                        <li><a href="#">Home /</a></li>
+                        <li class="current">Register</li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<section class="register section-padding">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-5 col-md-12 col-xs-12">
+                <div class="register-form login-area">
+                    <h3>
+                        Register
+                    </h3>
+                    <form [formGroup]="createuser" (ngSumbit)="createuser1()" class="login-form">
+                        <div class="form-group">
+                            <div class="input-icon">
+                                <i class="lni-user"></i>
+                                <input type="text" id="Name" class="form-control" name="nameuser" formControlName="Name"
+                                    placeholder="Username">
+                                <small *ngIf="createuser.get('Name').invalid &&createuser.get('Name').touched"
+                                    class="text-danger">*User Name is
+                                    Required</small>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="input-icon">
+                                <i class="lni-envelope"></i>
+                                <input type="text" id="sender-email" class="form-control" name="email"
+                                    formControlName="Email" placeholder="Email Address">
+                                <small *ngIf="createuser.get('Email').invalid &&createuser.get('Email').touched"
+                                    class="text-danger">*Email is Required and Must be a correct</small>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="input-icon">
+                                <i class="lni-lock"></i>
+                                <input type="number" class="form-control" name="phone" formControlName="PhoneNumber"
+                                    placeholder="Phone number">
+                                <small
+                                    *ngIf="createuser.get('PhoneNumber').invalid &&createuser.get('PhoneNumber').touched"
+                                    class="text-danger">*Phone is Required and must be a number</small>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="input-icon">
+                                <i class="lni-lock"></i>
+                                <input type="password" class="form-control" name="pass" formControlName="Password"
+                                    placeholder="Password">
+                                <small *ngIf="createuser.get('Password').invalid &&createuser.get('Password').touched"
+                                    class="text-danger">*Password is Required and must be 8 digit at least !</small>
+                            </div>
+                        </div>
+                        <div class="form-group mb-3">
+                            <div class="custom-control custom-checkbox">
+                            </div>
+                        </div>
+                        <div class="text-center">
+                            <button [disabled]="createuser.invalid" class="btn btn-common log-btn"
+                                (click)="createuser1()">Register</button>
+
+
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+<app-footer></app-footer>
