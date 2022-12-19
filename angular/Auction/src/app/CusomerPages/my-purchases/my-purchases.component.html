@@ -1,0 +1,91 @@
+<app-navbar></app-navbar>
+
+<div class="page-header" style="background: url(assets/img/banner1.jpg);">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="breadcrumb-wrapper">
+                    <h2 class="product-title">My purchases</h2>
+                    <ol class="breadcrumb">
+                        <li><a href="#">Home /</a></li>
+                        <li class="current">My purchases</li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div id="content" class="section-padding">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 col-md-4 col-lg-3 page-sidebar">
+                <app-sidebarcust></app-sidebarcust>
+            </div>
+            <div class="col-sm-12 col-md-8 col-lg-9">
+                <div class="page-content">
+                    <div class="inner-box">
+                        <div class="dashboard-box">
+                            <h2 class="dashbord-title">My purchases</h2>
+                        </div>
+                        <div class="dashboard-wrapper">
+                            <nav class="nav-table">
+
+                            </nav>
+                            <table class="table table-responsive dashboardtable tablemyads">
+                                <thead>
+                                    <tr>
+                                        <th>
+                                            <div class="custom-control custom-checkbox">
+                                                <input type="checkbox" class="custom-control-input" id="checkedall">
+                                                <label class="custom-control-label" for="checkedall"></label>
+                                            </div>
+                                        </th>
+                                        <th>Photo</th>
+                                        <th>Title</th>
+                                        <th> Price </th>
+                                        <th> Profit </th>
+
+
+
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr data-category="active" *ngFor="let item of allOrderForUser">
+                                        <td>
+                                            <div class="custom-control custom-checkbox">
+                                                <input type="checkbox" class="custom-control-input" id="adone">
+                                                <label class="custom-control-label" for="adone"></label>
+                                            </div>
+                                        </td>
+                                        <td class="photo"><img class="img-fluid" src="/assets/img/{{item.image}}"
+                                                alt=""></td>
+                                        <td data-title="Title">
+                                            <h3> {{item.title}}</h3>
+
+                                        </td>
+                                        <td data-title="Price">
+                                            <h3>{{item.total}}</h3>
+                                        </td>
+                                        <td data-title="Price">
+                                            <h3>{{item.profits}}</h3>
+                                        </td>
+
+
+
+                                    </tr>
+
+
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<app-footer></app-footer>

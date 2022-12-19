@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FinalProject.Auction.Core\FinalProject.Auction.Core.csproj" />
+    <ProjectReference Include="..\FinalProject.Auction.Infra\FinalProject.Auction.Infra.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwRoot\images\" />
+  </ItemGroup>
+
+
+</Project>

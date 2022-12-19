@@ -1,0 +1,88 @@
+
+<div id="layout-sidenav" class="layout-sidenav sidenav sidenav-vertical bg-dark">
+    <div class="app-brand demo">
+        <span class="app-brand-logo demo">
+
+        </span>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        
+        
+        <a routerLink= "/Accountant" class="app-brand-text demo sidenav-text font-weight-normal ml-2">Accountant Dashboard</a>
+        <a routerLink= "/Accountant" class="layout-sidenav-toggle sidenav-link text-large ml-auto">
+            <i class="ion ion-md-menu align-middle"></i>
+        </a>
+    </div>
+    <div class="sidenav-divider mt-0"></div>
+
+    <!-- Links -->
+    <ul class="sidenav-inner py-1 ps ps--active-y">
+
+        <!-- Dashboards -->
+        <li class="sidenav-item active">
+            <a routerLink= "/Accountant"  class="sidenav-link">
+                <i class="sidenav-icon feather icon-home"></i>
+                <div>Dashboards</div>
+                <div class="pl-1 ml-auto">
+                    <div class="badge badge-danger">Home</div>
+                </div>
+            </a>
+        </li>
+
+
+        <!-- Layouts -->
+        <li class="sidenav-divider mb-1"></li>
+        <li class="sidenav-header small font-weight-semibold">UI Components</li>
+
+        
+        <li class="sidenav-item">
+            <a routerLink="/Accountant/addacc/" class="sidenav-link">
+                <div class="sidenav-icon feather icon-clipboard"> </div>
+                <div>Add Account for Emp</div>
+
+            </a>
+        </li>
+
+        <li class="sidenav-item">
+            <a  routerLink="/Accountant/showacc/" class="sidenav-link">
+                <div class="sidenav-icon feather icon-clipboard"> </div>
+                <div>Show Account for Emp</div>
+
+            </a>
+        </li>
+
+        <li class="sidenav-item">
+            <a routerLink="/Accountant/showcus/" class="sidenav-link">
+                <i class="sidenav-icon feather icon-grid"></i>
+                <div> Show Cuostmer </div>
+            </a>
+        </li>
+        <li class="sidenav-item">
+            <a routerLink="/Accountant/showemp/" class="sidenav-link">
+                <i class="sidenav-icon feather icon-grid"></i>
+                <div> Show Employee </div>
+            </a>
+        </li>
+
+
+        <li class="sidenav-divider mb-1"></li>
+        <li class="sidenav-header small font-weight-semibold"></li>
+        <li class="sidenav-item">
+            <a (click)="clearStorage()" class="sidenav-link">
+                <i class="sidenav-icon feather icon-lock"></i>
+                
+                <div>Logout</div>
+            </a>
+        </li>
+        
+        <div class="ps__rail-x" style="left: 0px; bottom: 0px;">
+            <div class="ps__thumb-x" tabindex="0" style="left: 0px; width: 0px;"></div>
+        </div>
+        <div class="ps__rail-y" style="top: 0px; height: 542px; right: 4px;">
+            <div class="ps__thumb-y" tabindex="0" style="top: 0px; height: 431px;"></div>
+        </div>
+    </ul>
+</div>

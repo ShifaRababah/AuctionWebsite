@@ -1,0 +1,22 @@
+
+ @import url('../../../assets/css/bootstrap.min.css');
+
+ @import url('../../../assets/fonts/line-icons.css');
+
+ @import url('../../../assets/css/slicknav.css');
+ @import url('../../../assets/css/color-switcher.css');
+ @import url('../../../assets/css/animate.css');
+
+ @import url('../../../assets/css/owl.carousel.css');
+ @import url('../../../assets/css/main.css');
+ @import url('../../../assets/css/responsive.css');
+
+
+ .form-control.ng-touched.ng-invalid{
+    border:1px solid red;
+}
+.form-control.ng-touched.ng-valid{
+   border:1px solid green;
+}
+
+ 

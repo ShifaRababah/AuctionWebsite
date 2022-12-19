@@ -1,0 +1,427 @@
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.API.exe
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.API.deps.json
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.API.runtimeconfig.json
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.API.runtimeconfig.dev.json
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.API.dll
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.API.pdb
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.Core.dll
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.Infra.dll
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.Core.pdb
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.Infra.pdb
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.AssemblyInfo.cs
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\staticwebassets\FinalProject.Auction.API.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\staticwebassets\FinalProject.Auction.API.StaticWebAssets.xml
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\FinalProject.Auction.API.styles.css
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.csproj.CopyComplete
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.dll
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.pdb
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.genruntimeconfig.cache
+E:\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.csproj.AssemblyReference.cache
+E:\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.AssemblyInfoInputs.cache
+E:\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.AssemblyInfo.cs
+E:\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.csproj.CoreCompileInputs.cache
+E:\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.MvcApplicationPartsAssemblyInfo.cache
+E:\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.dll
+E:\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.pdb
+E:\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.API.exe
+E:\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.API.deps.json
+E:\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.API.runtimeconfig.json
+E:\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.API.runtimeconfig.dev.json
+E:\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.API.dll
+E:\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.API.pdb
+E:\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Azure.Core.dll
+E:\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+E:\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Dapper.dll
+E:\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+E:\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.Core.dll
+E:\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.Infra.dll
+E:\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.Core.pdb
+E:\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.Infra.pdb
+E:\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\staticwebassets\FinalProject.Auction.API.StaticWebAssets.Manifest.cache
+E:\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\staticwebassets\FinalProject.Auction.API.StaticWebAssets.xml
+E:\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\FinalProject.Auction.API.styles.css
+E:\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.RazorTargetAssemblyInfo.cache
+E:\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.csproj.CopyComplete
+E:\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.genruntimeconfig.cache
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.csproj.AssemblyReference.cache
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.AssemblyInfoInputs.cache
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.AssemblyInfo.cs
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.dll
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.pdb
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.API.exe
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.API.deps.json
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.API.runtimeconfig.json
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.API.runtimeconfig.dev.json
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.API.dll
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.API.pdb
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.Core.dll
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.Infra.dll
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.Core.pdb
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.Infra.pdb
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\staticwebassets\FinalProject.Auction.API.StaticWebAssets.Manifest.cache
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\staticwebassets\FinalProject.Auction.API.StaticWebAssets.xml
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\FinalProject.Auction.API.styles.css
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.RazorTargetAssemblyInfo.cache
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.csproj.CopyComplete
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.genruntimeconfig.cache
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.API.exe
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.API.deps.json
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.API.runtimeconfig.json
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.API.runtimeconfig.dev.json
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.API.dll
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.API.pdb
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.Core.dll
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.Infra.dll
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.Core.pdb
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.Infra.pdb
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.csproj.AssemblyReference.cache
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.AssemblyInfoInputs.cache
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.AssemblyInfo.cs
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.csproj.CoreCompileInputs.cache
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\staticwebassets\FinalProject.Auction.API.StaticWebAssets.Manifest.cache
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\staticwebassets\FinalProject.Auction.API.StaticWebAssets.xml
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\FinalProject.Auction.API.styles.css
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.RazorTargetAssemblyInfo.cache
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.csproj.CopyComplete
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.dll
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.pdb
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.genruntimeconfig.cache
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.API.exe
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.API.deps.json
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.API.runtimeconfig.json
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.API.runtimeconfig.dev.json
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.API.dll
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.API.pdb
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.Core.dll
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.Infra.dll
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.Core.pdb
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.Infra.pdb
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.AssemblyInfo.cs
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\staticwebassets\FinalProject.Auction.API.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\staticwebassets\FinalProject.Auction.API.StaticWebAssets.xml
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\FinalProject.Auction.API.styles.css
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.csproj.CopyComplete
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.dll
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.pdb
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.genruntimeconfig.cache
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.API.exe
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.API.deps.json
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.API.runtimeconfig.json
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.API.runtimeconfig.dev.json
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.API.dll
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.API.pdb
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.Core.dll
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.Infra.dll
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.Core.pdb
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.Infra.pdb
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.AssemblyInfo.cs
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\staticwebassets\FinalProject.Auction.API.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\staticwebassets\FinalProject.Auction.API.StaticWebAssets.xml
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\FinalProject.Auction.API.styles.css
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.csproj.CopyComplete
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.dll
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.pdb
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.genruntimeconfig.cache
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.API.exe
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.API.deps.json
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.API.runtimeconfig.json
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.API.runtimeconfig.dev.json
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.API.dll
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.API.pdb
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Azure.Core.dll
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.Core.dll
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.Infra.dll
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.Core.pdb
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.Infra.pdb
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.csproj.AssemblyReference.cache
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.AssemblyInfoInputs.cache
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.AssemblyInfo.cs
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.csproj.CoreCompileInputs.cache
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.MvcApplicationPartsAssemblyInfo.cache
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\staticwebassets\FinalProject.Auction.API.StaticWebAssets.Manifest.cache
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\staticwebassets\FinalProject.Auction.API.StaticWebAssets.xml
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\FinalProject.Auction.API.styles.css
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.RazorTargetAssemblyInfo.cache
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.csproj.CopyComplete
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.dll
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.pdb
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.genruntimeconfig.cache
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.API.exe
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.API.deps.json
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.API.runtimeconfig.json
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.API.runtimeconfig.dev.json
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.API.dll
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.API.pdb
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Azure.Core.dll
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Dapper.dll
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.Core.dll
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.Infra.dll
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.Core.pdb
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.API\bin\Debug\netcoreapp3.1\FinalProject.Auction.Infra.pdb
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.csproj.AssemblyReference.cache
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.AssemblyInfoInputs.cache
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.AssemblyInfo.cs
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.csproj.CoreCompileInputs.cache
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.MvcApplicationPartsAssemblyInfo.cache
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\staticwebassets\FinalProject.Auction.API.StaticWebAssets.Manifest.cache
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\staticwebassets\FinalProject.Auction.API.StaticWebAssets.xml
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\FinalProject.Auction.API.styles.css
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.RazorTargetAssemblyInfo.cache
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.csproj.CopyComplete
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.dll
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.pdb
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.API\obj\Debug\netcoreapp3.1\FinalProject.Auction.API.genruntimeconfig.cache

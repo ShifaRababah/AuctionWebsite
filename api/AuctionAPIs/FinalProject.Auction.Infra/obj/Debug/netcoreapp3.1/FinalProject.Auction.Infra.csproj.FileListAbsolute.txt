@@ -1,0 +1,99 @@
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.Infra\bin\Debug\netcoreapp3.1\FinalProject.Auction.Infra.deps.json
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.Infra\bin\Debug\netcoreapp3.1\FinalProject.Auction.Infra.dll
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.Infra\bin\Debug\netcoreapp3.1\FinalProject.Auction.Infra.pdb
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.Infra\bin\Debug\netcoreapp3.1\FinalProject.Auction.Core.dll
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.Infra\bin\Debug\netcoreapp3.1\FinalProject.Auction.Core.pdb
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.AssemblyInfo.cs
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.csproj.CopyComplete
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.dll
+C:\Users\user\Desktop\FinalProject.Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.pdb
+E:\Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.csproj.AssemblyReference.cache
+E:\Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.GeneratedMSBuildEditorConfig.editorconfig
+E:\Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.AssemblyInfoInputs.cache
+E:\Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.AssemblyInfo.cs
+E:\Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.csproj.CoreCompileInputs.cache
+E:\Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.dll
+E:\Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.pdb
+E:\Auction\FinalProject.Auction.Infra\bin\Debug\netcoreapp3.1\FinalProject.Auction.Infra.deps.json
+E:\Auction\FinalProject.Auction.Infra\bin\Debug\netcoreapp3.1\FinalProject.Auction.Infra.dll
+E:\Auction\FinalProject.Auction.Infra\bin\Debug\netcoreapp3.1\FinalProject.Auction.Infra.pdb
+E:\Auction\FinalProject.Auction.Infra\bin\Debug\netcoreapp3.1\FinalProject.Auction.Core.dll
+E:\Auction\FinalProject.Auction.Infra\bin\Debug\netcoreapp3.1\FinalProject.Auction.Core.pdb
+E:\Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.csproj.CopyComplete
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.csproj.AssemblyReference.cache
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.AssemblyInfoInputs.cache
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.AssemblyInfo.cs
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.dll
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.pdb
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.Infra\bin\Debug\netcoreapp3.1\FinalProject.Auction.Infra.deps.json
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.Infra\bin\Debug\netcoreapp3.1\FinalProject.Auction.Infra.dll
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.Infra\bin\Debug\netcoreapp3.1\FinalProject.Auction.Infra.pdb
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.Infra\bin\Debug\netcoreapp3.1\FinalProject.Auction.Core.dll
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.Infra\bin\Debug\netcoreapp3.1\FinalProject.Auction.Core.pdb
+C:\Users\ahmed\Desktop\Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.csproj.CopyComplete
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.Infra\bin\Debug\netcoreapp3.1\FinalProject.Auction.Infra.deps.json
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.Infra\bin\Debug\netcoreapp3.1\FinalProject.Auction.Infra.dll
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.Infra\bin\Debug\netcoreapp3.1\FinalProject.Auction.Infra.pdb
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.Infra\bin\Debug\netcoreapp3.1\FinalProject.Auction.Core.dll
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.Infra\bin\Debug\netcoreapp3.1\FinalProject.Auction.Core.pdb
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.csproj.AssemblyReference.cache
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.AssemblyInfoInputs.cache
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.AssemblyInfo.cs
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.csproj.CopyComplete
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.dll
+C:\Users\Magic Systems\Documents\Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.pdb
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.Infra\bin\Debug\netcoreapp3.1\FinalProject.Auction.Infra.deps.json
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.Infra\bin\Debug\netcoreapp3.1\FinalProject.Auction.Infra.dll
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.Infra\bin\Debug\netcoreapp3.1\FinalProject.Auction.Infra.pdb
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.Infra\bin\Debug\netcoreapp3.1\FinalProject.Auction.Core.dll
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.Infra\bin\Debug\netcoreapp3.1\FinalProject.Auction.Core.pdb
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.AssemblyInfo.cs
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.csproj.CopyComplete
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.dll
+C:\Users\user\Desktop\Api LastUpd Obada\Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.pdb
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.Infra\bin\Debug\netcoreapp3.1\FinalProject.Auction.Infra.deps.json
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.Infra\bin\Debug\netcoreapp3.1\FinalProject.Auction.Infra.dll
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.Infra\bin\Debug\netcoreapp3.1\FinalProject.Auction.Infra.pdb
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.Infra\bin\Debug\netcoreapp3.1\FinalProject.Auction.Core.dll
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.Infra\bin\Debug\netcoreapp3.1\FinalProject.Auction.Core.pdb
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.AssemblyInfo.cs
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.csproj.CopyComplete
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.dll
+C:\Users\user\Desktop\Api LastUpd\Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.pdb
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.Infra\bin\Debug\netcoreapp3.1\FinalProject.Auction.Infra.deps.json
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.Infra\bin\Debug\netcoreapp3.1\FinalProject.Auction.Infra.dll
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.Infra\bin\Debug\netcoreapp3.1\FinalProject.Auction.Infra.pdb
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.Infra\bin\Debug\netcoreapp3.1\FinalProject.Auction.Core.dll
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.Infra\bin\Debug\netcoreapp3.1\FinalProject.Auction.Core.pdb
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.csproj.AssemblyReference.cache
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.AssemblyInfoInputs.cache
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.AssemblyInfo.cs
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.csproj.CoreCompileInputs.cache
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.csproj.CopyComplete
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.dll
+D:\final edit\FinalProject Auction\Api Auction\Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.pdb
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.Infra\bin\Debug\netcoreapp3.1\FinalProject.Auction.Infra.deps.json
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.Infra\bin\Debug\netcoreapp3.1\FinalProject.Auction.Infra.dll
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.Infra\bin\Debug\netcoreapp3.1\FinalProject.Auction.Infra.pdb
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.Infra\bin\Debug\netcoreapp3.1\FinalProject.Auction.Core.dll
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.Infra\bin\Debug\netcoreapp3.1\FinalProject.Auction.Core.pdb
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.csproj.AssemblyReference.cache
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.AssemblyInfoInputs.cache
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.AssemblyInfo.cs
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.csproj.CoreCompileInputs.cache
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.csproj.CopyComplete
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.dll
+E:\Fina lProject Auction\api\Auction\FinalProject.Auction.Infra\obj\Debug\netcoreapp3.1\FinalProject.Auction.Infra.pdb

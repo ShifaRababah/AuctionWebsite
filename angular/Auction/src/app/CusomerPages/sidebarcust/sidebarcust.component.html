@@ -1,0 +1,57 @@
+<aside>
+    <div class="sidebar-box">
+        <div class="user">
+            <figure>
+                <a href="#"><img src="assets/img/profilePic.png" style="width: 100px; height: 100px;" alt=""></a>
+            </figure>
+            <div class="usercontent">
+                <h3>Customer Dashboard</h3>
+
+            </div>
+        </div>
+        <nav class="navdashboard">
+            <ul>
+                <li>
+                    <a routerLink="/Post-Ads/">
+                        <i class="lni-dashboard"></i>
+                        <span>Post an Ads</span>
+                    </a>
+                </li>
+                <li>
+                    <a routerLink="/MyAds/">
+                        <i class="lni-layers"></i>
+                        <span>My Ads</span>
+                    </a>
+                </li>
+
+                <li>
+                    <a routerLink="/MyPayment/">
+                        <i class="lni-wallet"></i>
+                        <span>My Cart</span>
+                    </a>
+                </li>
+                <li>
+                    <a routerLink="/MyBalance/">
+                        <i class="lni-wallet"></i>
+                        <span>My Balance in Bank</span>
+                    </a>
+                </li>
+                <li>
+                    <a routerLink="/MyPurchases/">
+                        <i class="lni-wallet"></i>
+                        <span>My purchases</span>
+                    </a>
+                </li>
+                <br>
+
+                <li>
+                    <a (click)="clearStorage()">
+                        <i class="lni-enter"></i>
+                        <span>Logout</span>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+
+</aside>
